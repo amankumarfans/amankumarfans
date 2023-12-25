@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Aman Kumar Singh 👋
 
 <!--
 **amankumarfans/amankumarfans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
